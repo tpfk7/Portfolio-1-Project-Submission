@@ -4,9 +4,24 @@
     margin: 0;
     padding: 0;
     border: none;
-    
+
 }
 body {
-    font-family: Philosopher, sans-serif;
+    background-color: #e4decd;
+    font-family: Mulish, sans-serif;
     font-weight: 300;
+    color: #c89666;
+}
+
+/* headings */
+h1,h2{
+    font-family: Philosopher, sans-serif;
+    letter-spacing: 3px;
+    color: #c89666;
+
+}
+
+#logo{
+    float: center;
+    font-size: 300%;
 }
