@@ -22,6 +22,36 @@ h1,h2{
 }
 
 #logo{
-    float: center;
+    float: left;
     font-size: 300%;
+    text-decoration: none;
+}
+
+/* nav links */
+#menu {
+    font-size: 150%;
+    letter-spacing: 3px;
+}
+
+#menu, #logo {
+    line-height: 75px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 3px solid #c89666;
+}
+
+.active {
+    border-bottom: 3px solid #c89666;
 }
