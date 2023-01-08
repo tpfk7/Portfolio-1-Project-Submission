@@ -98,8 +98,15 @@ h1,h2{
     height: 600px;
     text-align: center;
     font-size: 160%;
+    
  }
 
- #facts {
+ #colosseum-facts >h1 {
+    text-decoration: underline;
+ }
+
+ #facts ul {
     line-height: 45px;
+    text-decoration: none;
+    
  }
