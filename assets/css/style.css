@@ -7,7 +7,7 @@
 
 }
 body {
-    background-color: #e4decd;
+    background-color: #AFEEEE
     font-family: Mulish, sans-serif;
     font-weight: 300;
     color: #c89666;
@@ -54,4 +54,41 @@ h1,h2{
 
 .active {
     border-bottom: 3px solid #c89666;
+}
+
+/* hero image */
+
+#hero-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+
+    position: relative;
+
+}
+
+#hero-image {
+    width:100%;
+    height:600px;
+    background: url(../css/images/Colosseum.jpeg) no-repeat center center;
+    object-fit: contain;
+   
+
+     /* animates zoom effect on loading page */
+     animation-name: hero-zoom;
+     animation-duration: 5s;
+     animation-fill-mode: forwards;
+    
+   
+}
+
+/* creates the level of zoom for hero image */
+@keyframes hero-zoom{
+    from{
+        transform: scale(1.3);
+
+    }
+    to{
+        transform: scale(1.4)
+    }
 }
