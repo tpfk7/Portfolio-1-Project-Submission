@@ -25,6 +25,7 @@ h1,h2{
     float: left;
     font-size: 300%;
     text-decoration: none;
+    margin-left: 30px;
 }
 
 /* nav links */
@@ -92,3 +93,13 @@ h1,h2{
         transform: scale(1.4)
     }
 }
+ /* facts section */
+ #colosseum-facts {
+    height: 600px;
+    text-align: center;
+    font-size: 160%;
+ }
+
+ #facts {
+    line-height: 45px;
+ }
