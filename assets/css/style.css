@@ -71,7 +71,7 @@ h1,h2{
 #hero-image {
     width:100%;
     height:600px;
-    background: url(../css/images/Colosseum.jpeg) no-repeat center center;
+    background: url(../images/colosseum.jpeg) no-repeat center center;
     object-fit: contain;
    
 
@@ -90,7 +90,7 @@ h1,h2{
 
     }
     to{
-        transform: scale(1.4)
+        transform: scale(1.4);
     }
 }
  /* facts section */
