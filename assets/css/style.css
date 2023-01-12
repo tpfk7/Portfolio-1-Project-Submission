@@ -97,13 +97,14 @@ h1,h2{
  /* facts section */
  #colosseum-facts {
     height: 600px;
-    text-align: center;
-    font-size: 160%;
+    text-align: justify;
+    font-size: 140%;
     
  }
 
  #colosseum-facts >h1 {
     text-decoration: underline;
+    text-align: center;
  }
 
  #facts ul {
