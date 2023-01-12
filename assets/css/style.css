@@ -76,6 +76,7 @@ h1,h2{
    
 
      /* animates zoom effect on loading page */
+     /* code from 'love running' tutorial */
      animation-name: hero-zoom;
      animation-duration: 5s;
      animation-fill-mode: forwards;
