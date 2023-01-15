@@ -26,6 +26,7 @@ h1,h2{
     font-size: 300%;
     text-decoration: none;
     margin-left: 30px;
+    padding-bottom: 30px;
 }
 
 /* nav links */
@@ -122,3 +123,17 @@ h1,h2{
     align-items: flex-start;
     
  }
+#history-text{
+    padding: 0 40px;
+    margin: auto;
+line-height: 20px;
+
+    
+}
+#gladiator-text{
+    padding: 0 40px;
+    margin: auto;
+line-height: 20px;
+
+    
+}
