@@ -69,10 +69,12 @@ h1,h2{
 }
 
 #hero-image {
-    width:100%;
-    height:600px;
+    display:flex
+    max-width:100%;
+    min-height:600px;
     background: url(../images/colosseum-rome.jpg) no-repeat center center;
     object-fit: contain;
+    
    
 
      /* animates zoom effect on loading page */
