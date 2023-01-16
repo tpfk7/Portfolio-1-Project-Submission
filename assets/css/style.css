@@ -22,11 +22,13 @@ h1,h2{
 }
 
 #logo{
-    float: left;
+    float: center;
     font-size: 300%;
     text-decoration: none;
     margin-left: 30px;
     padding-bottom: 30px;
+    margin-bottom: 40px;
+    margin-top: 40px;
 }
 
 /* nav links */
