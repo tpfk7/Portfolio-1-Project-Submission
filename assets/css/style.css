@@ -122,6 +122,7 @@ h1,h2{
     justify-content: space-evenly;
     align-items: flex-start;
     
+    
  }
 #history-text{
     padding: 0 40px;
@@ -130,10 +131,26 @@ line-height: 20px;
 
     
 }
+
+
 #gladiator-text{
     padding: 0 40px;
     margin: auto;
 line-height: 20px;
 
     
+}
+#history-image{
+    background: url(../images/colosseum-history.jpg)  no-repeat center center;;
+    max-width:100%;
+    min-height:600px;
+    object-fit: contain;
+
+}
+#gladiator-image{
+    background: url(../images/gladiator-helmet.jpg)  no-repeat center center;;
+    max-width:100%;
+    min-height:600px;
+    object-fit: contain;
+
 }
