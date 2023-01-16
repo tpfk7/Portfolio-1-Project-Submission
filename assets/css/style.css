@@ -98,6 +98,13 @@ h1,h2{
     }
 }
  /* facts section */
+
+#facts-heading{
+    display: flex;
+    justify-content: center;
+    font-size: 180%;
+}
+
  #colosseum-facts {
     
     height: 600px;
@@ -124,16 +131,8 @@ h1,h2{
     
     
  }
+ /* history page */
 #history-text{
-    padding: 0 40px;
-    margin: auto;
-line-height: 20px;
-
-    
-}
-
-
-#gladiator-text{
     padding: 0 40px;
     margin: auto;
 line-height: 20px;
@@ -144,13 +143,24 @@ line-height: 20px;
     background: url(../images/colosseum-history.jpg)  no-repeat center center;;
     max-width:100%;
     min-height:600px;
-    object-fit: contain;
+    object-fit: contain;}
 
+/* gladiator page */
+#gladiator-text{
+    padding: 0 40px;
+    margin: auto;
+line-height: 20px;
 }
+
 #gladiator-image{
     background: url(../images/gladiator-helmet.jpg)  no-repeat center center;;
     max-width:100%;
     min-height:600px;
     object-fit: contain;
 
+}
+/* visit page */
+#visit-heading{
+    display: flex;
+    justify-content: center;
 }
