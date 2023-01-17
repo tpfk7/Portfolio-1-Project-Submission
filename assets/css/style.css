@@ -137,12 +137,10 @@ h1,h2{
     
  }
  /* history page */
-#history-text{
+.history-text{
     padding: 0 40px;
     margin: auto;
 line-height: 20px;
-
-    
 }
 #history-image{
     background: url(../images/colosseum-history.jpg)  no-repeat center center;
@@ -154,7 +152,7 @@ line-height: 20px;
 }
 
 /* gladiator page */
-#gladiator-text{
+.gladiator-text{
     padding: 0 40px;
     margin: auto;
 line-height: 20px;
@@ -203,11 +201,16 @@ line-height: 20px;
   
   /* Add an active class to highlight the current page */
   .topnav a.active {
-    background-color: #04AA6D;
-    color: white;
+    background-color: #fafafa;
+    color: #ad5500;
   }
   
   /* Hide the link that should open and close the topnav on small screens */
   .topnav .icon {
     display: none;
   }
+.photos{
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
