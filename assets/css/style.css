@@ -166,3 +166,10 @@ line-height: 20px;
     background-color: #fafafa;
     color: white;
   }
+  /* form */
+  #form{
+    padding: 0 40px;
+    margin: auto;
+line-height: 20px;
+
+  }
