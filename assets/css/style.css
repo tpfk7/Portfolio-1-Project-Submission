@@ -168,9 +168,9 @@ select{
 }
 
 input[type=submit], input[type=reset] {
-    background-color: #04AA6D;
-    border: none;
-    color: white;
+    background-color: #fafafa;
+    border: solid;
+    color: #c17226;
     padding: 16px 32px;
     text-decoration: none;
     margin: 4px 2px;
