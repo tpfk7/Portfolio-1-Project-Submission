@@ -150,6 +150,8 @@ a {
   margin-top: 30px;
   margin-bottom: 30px;
 }
+@media screen and (min-width:700px) 
+ 
 
 /* form section */
 /* taken from w3schools https://www.w3schools.com/css/css_form.asp */
@@ -274,7 +276,7 @@ input[type=reset] {
 /* footer */
 
 footer {
-  height: ;
+  height: 150px;
   background-color: #ad5500;
 }
 
