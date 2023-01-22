@@ -293,7 +293,9 @@ input[type=reset] {
 footer {
   height:;
   background-color: #ad5500;
+  flex-shrink: 0;
 }
+
 
 .social-networks {
   text-align: center;
@@ -318,4 +320,21 @@ footer {
 }
 #confirmation{
   padding: 45px 45px 45px 45px;
+}
+
+/* Sticks footer to bottom of screen */
+
+html, body {
+  height: 100%;
+}
+.body {
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  flex: 1 0 auto;
+}
+.footer {
+  flex-shrink: 0;
 }
