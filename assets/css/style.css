@@ -154,6 +154,9 @@ a {
   margin-top: 30px;
   margin-bottom: 30px;
 }
+img:hover {
+  filter: grayscale(100%);
+}
 @media screen and (min-width:700px) {
   .photos{
     width: 50%;
@@ -165,6 +168,7 @@ a {
   width: 50%;
   }
 }
+
 
 
 
