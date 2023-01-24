@@ -2,6 +2,174 @@
 The purpose of this website is to give information to those who are interested in the Colosseum. The landing page has some quick facts to get the user engaged and the History and Gladiator section go more indepth into the creation of the structure, how it was used and the combatants that fought in it.
 
 The main goal is to educate the user on the Colosseum but the secondary goal is for the user to visit, or possibly re-visit the Colosseum. The information on the first three pages will hopefully entice the user to consider visiting. The Visit page will give the user specific reasons to visit the Colosseum and a form if they have any questions about tours or general questions.
+![screenshot](documentation/mockup.png)
+
+## UX
+
+In this section, you will briefly explain your design processes.
+
+### Colour Scheme
+
+
+- `#c17226` used for primary text.
+- `#E84610` used for primary highlights.
+- `#ad5500` used for secondary text.
+- `#fafafa` used for secondary highlights.
+
+Consider adding a link and screenshot for your colour scheme using "coolors".
+https://coolors.co/generate
+
+When you add a colour to the palette, the URL is dynamically updated, making it easier for you to return back to your colour palette later if needed.
+
+Example:
+
+I used [coolors.co](https://coolors.co/e84610-009fe3-4a4a4f-445261-d63649-e6ecf0-000000) to generate my colour palette.
+
+![screenshot](documentation/coolors.png)
+
+If you've used CSS `:root` variables, consider also including a code snippet here!
+
+I've used CSS `:root` variables to easily update the global colour scheme by changing only one value, instead of everywhere in the CSS file.
+
+```css
+:root {
+    /* P = Primary | S = Secondary */
+    --p-text: #000000;
+    --p-highlight: #E84610;
+    --s-text: #4A4A4F;
+    --s-highlight: #009FE3;
+    --white: #FFFFFF;
+    --black: #000000;
+}
+```
+
+### Typography
+
+Explain any fonts and icon libraries used, like Google Fonts and/or Font Awesome.
+
+Consider adding a link to each font used, and the Font Awesome site if used (or similar icon library).
+
+Example:
+
+- [Philiosopher](https://fonts.google.com/specimen/Philosopher?query=philosopher) was used for the primary headers and titles.
+
+- [Mulish](https://fonts.google.com/specimen/Mulish?query=Mulish) was used for all other secondary text.
+
+- [Font Awesome](https://fontawesome.com) icons were used as the social media icons in the footer.
+
+## User Stories
+
+In this section, list all of your user stories for the project.
+
+### New Site Users
+
+- As a new site user, I would like to ____________, so that I can ____________.
+- As a new site user, I would like to ____________, so that I can ____________.
+- As a new site user, I would like to ____________, so that I can ____________.
+- As a new site user, I would like to ____________, so that I can ____________.
+- As a new site user, I would like to ____________, so that I can ____________.
+
+### Returning Site Users
+
+- As a returning site user, I would like to ____________, so that I can ____________.
+- As a returning site user, I would like to ____________, so that I can ____________.
+- As a returning site user, I would like to ____________, so that I can ____________.
+- As a returning site user, I would like to ____________, so that I can ____________.
+- As a returning site user, I would like to ____________, so that I can ____________.
+
+### Site Admin
+
+- As a site administrator, I should be able to ____________, so that I can ____________.
+- As a site administrator, I should be able to ____________, so that I can ____________.
+- As a site administrator, I should be able to ____________, so that I can ____________.
+- As a site administrator, I should be able to ____________, so that I can ____________.
+- As a site administrator, I should be able to ____________, so that I can ____________.
+
+## Wireframes
+
+In this section, display your wireframe screenshots using a Markdown `table`.
+
+Instructions on how to do Markdown `tables` start on line #213 on this site: https://pandao.github.io/editor.md/en.html
+
+To follow best practice, wireframes were developed for mobile, tablet, and desktop sizes.
+I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wireframes.
+
+### Home Page Wireframes
+
+| Size | Screenshot |
+| --- | --- |
+| Mobile | ![screenshot](documentation/wireframes/mobile-home.png) |
+| Tablet | ![screenshot](documentation/wireframes/tablet-home.png) |
+| Desktop | ![screenshot](documentation/wireframes/desktop-home.png) |
+
+### About Page Wireframes
+
+| Size | Screenshot |
+| --- | --- |
+| Mobile | ![screenshot](documentation/wireframes/mobile-about.png) |
+| Tablet | ![screenshot](documentation/wireframes/tablet-about.png) |
+| Desktop | ![screenshot](documentation/wireframes/desktop-about.png) |
+
+### Contact Page Wireframes
+
+| Size | Screenshot |
+| --- | --- |
+| Mobile | ![screenshot](documentation/wireframes/mobile-contact.png) |
+| Tablet | ![screenshot](documentation/wireframes/tablet-contact.png) |
+| Desktop | ![screenshot](documentation/wireframes/desktop-contact.png) |
+
+Repeat for any addition wireframe pages you have.
+
+## Features
+
+In this section, you should go over the different parts of your project,
+and describe each in a sentence or so.
+
+You will need to explain what value each of the features provides for the user,
+focusing on who this website is for, what it is that they want to achieve,
+and how your project is the best way to help them achieve these things.
+
+For some/all of your features, you may choose to reference the specific project files that implement them.
+
+IMPORTANT: Remember to always include a screenshot of each individual feature!
+
+### Existing Features
+
+- **Feature #1**
+
+    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+
+![screenshot](documentation/feature01.png)
+
+- **Feature #2**
+
+    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+
+![screenshot](documentation/feature02.png)
+
+- **Feature #3**
+
+    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+
+![screenshot](documentation/feature03.png)
+
+Repeat as necessary for as many features as your site contains.
+
+Hint: the more, the merrier!
+
+### Future Features
+
+Do you have additional ideas that you'd like to include on your project in the future?
+Fantastic! List them here!
+It's always great to have plans for future improvements!
+Consider adding any helpful links or notes to help remind you in the future, if you revisit the project in a couple years.
+
+- Cool new feature #1
+    - Any additional notes about this feature.
+- Cool new feature #2
+    - Any additional notes about this feature.
+- Cool new feature #3
+    - Any additional notes about this feature.
 
 ## Features 
 
