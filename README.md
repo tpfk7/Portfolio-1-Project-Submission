@@ -38,22 +38,6 @@ In this section, list all of your user stories for the project.
 - As a new site user, I would like to ____________, so that I can ____________.
 - As a new site user, I would like to ____________, so that I can ____________.
 
-### Returning Site Users
-
-- As a returning site user, I would like to ____________, so that I can ____________.
-- As a returning site user, I would like to ____________, so that I can ____________.
-- As a returning site user, I would like to ____________, so that I can ____________.
-- As a returning site user, I would like to ____________, so that I can ____________.
-- As a returning site user, I would like to ____________, so that I can ____________.
-
-### Site Admin
-
-- As a site administrator, I should be able to ____________, so that I can ____________.
-- As a site administrator, I should be able to ____________, so that I can ____________.
-- As a site administrator, I should be able to ____________, so that I can ____________.
-- As a site administrator, I should be able to ____________, so that I can ____________.
-- As a site administrator, I should be able to ____________, so that I can ____________.
-
 ## Wireframes
 
 In this section, display your wireframe screenshots using a Markdown `table`.
@@ -83,25 +67,25 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 
 | Size | Screenshot |
 | --- | --- |
-| Mobile | ![screenshot](documentation/wireframes/mobile-contact.png) |
-| Tablet | ![screenshot](documentation/wireframes/tablet-contact.png) |
-| Desktop | ![screenshot](documentation/wireframes/desktop-contact.png) |
+| Mobile | ![screenshot](documentation/wireframes/gladiator-mobile.png) |
+| Tablet | ![screenshot](documentation/wireframes/gladiator-tablet.png) |
+| Desktop | ![screenshot](documentation/wireframes/gladiator-desktop.png) |
 
 ### Visit Page Wireframes
 
 | Size | Screenshot |
 | --- | --- |
-| Mobile | ![screenshot](documentation/wireframes/mobile-contact.png) |
-| Tablet | ![screenshot](documentation/wireframes/tablet-contact.png) |
-| Desktop | ![screenshot](documentation/wireframes/desktop-contact.png) |
+| Mobile | ![screenshot](documentation/wireframes/visit-mobile.png) |
+| Tablet | ![screenshot](documentation/wireframes/visit-tablet.png) |
+| Desktop | ![screenshot](documentation/wireframes/visit-desktop.png) |
 
 ### Confirmation Page Wireframes
 
 | Size | Screenshot |
 | --- | --- |
-| Mobile | ![screenshot](documentation/wireframes/mobile-contact.png) |
-| Tablet | ![screenshot](documentation/wireframes/tablet-contact.png) |
-| Desktop | ![screenshot](documentation/wireframes/desktop-contact.png) |
+| Mobile | ![screenshot](documentation/wireframes/thank-you-mobile.png) |
+| Tablet | ![screenshot](documentation/wireframes/thank-you-tablet.png) |
+| Desktop | ![screenshot](documentation/wireframes/thank-you-desktop.png) |
 
 
 
