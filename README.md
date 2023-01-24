@@ -6,7 +6,7 @@ The main goal is to educate the user on the Colosseum but the secondary goal is 
 
 ## UX
 
-In this section, you will briefly explain your design processes.
+The design of the website is trying to evoke the image of ancient Rome with dark orange colours to represent sand and brick of the Colosseum.
 
 ### Colour Scheme
 
@@ -16,40 +16,9 @@ In this section, you will briefly explain your design processes.
 - `#ad5500` used for secondary text.
 - `#fafafa` used for secondary highlights.
 
-Consider adding a link and screenshot for your colour scheme using "coolors".
-https://coolors.co/generate
-
-When you add a colour to the palette, the URL is dynamically updated, making it easier for you to return back to your colour palette later if needed.
-
-Example:
-
-I used [coolors.co](https://coolors.co/e84610-009fe3-4a4a4f-445261-d63649-e6ecf0-000000) to generate my colour palette.
-
-![screenshot](documentation/coolors.png)
-
-If you've used CSS `:root` variables, consider also including a code snippet here!
-
-I've used CSS `:root` variables to easily update the global colour scheme by changing only one value, instead of everywhere in the CSS file.
-
-```css
-:root {
-    /* P = Primary | S = Secondary */
-    --p-text: #000000;
-    --p-highlight: #E84610;
-    --s-text: #4A4A4F;
-    --s-highlight: #009FE3;
-    --white: #FFFFFF;
-    --black: #000000;
-}
-```
-
 ### Typography
 
-Explain any fonts and icon libraries used, like Google Fonts and/or Font Awesome.
-
-Consider adding a link to each font used, and the Font Awesome site if used (or similar icon library).
-
-Example:
+Philiosopher and Mulish fonts were used as they pair well together and fit the theme. They were taken from Google Fonts. The social media links were taken from Font Awesome. l
 
 - [Philiosopher](https://fonts.google.com/specimen/Philosopher?query=philosopher) was used for the primary headers and titles.
 
@@ -98,19 +67,19 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 
 | Size | Screenshot |
 | --- | --- |
-| Mobile | ![screenshot](documentation/wireframes/mobile-home.png) |
-| Tablet | ![screenshot](documentation/wireframes/tablet-home.png) |
-| Desktop | ![screenshot](documentation/wireframes/desktop-home.png) |
+| Mobile | ![screenshot](documentation/wireframes/index-mobile.png) |
+| Tablet | ![screenshot](documentation/wireframes/index-tablet.png) |
+| Desktop | ![screenshot](documentation/wireframes/index-desktop.png) |
 
-### About Page Wireframes
+### History Page Wireframes
 
 | Size | Screenshot |
 | --- | --- |
-| Mobile | ![screenshot](documentation/wireframes/mobile-about.png) |
-| Tablet | ![screenshot](documentation/wireframes/tablet-about.png) |
-| Desktop | ![screenshot](documentation/wireframes/desktop-about.png) |
+| Mobile | ![screenshot](documentation/wireframes/history-mobile.png) |
+| Tablet | ![screenshot](documentation/wireframes/history-tablet.png) |
+| Desktop | ![screenshot](documentation/wireframes/history-desktop.png) |
 
-### Contact Page Wireframes
+### Gladiator Page Wireframes
 
 | Size | Screenshot |
 | --- | --- |
@@ -118,7 +87,23 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 | Tablet | ![screenshot](documentation/wireframes/tablet-contact.png) |
 | Desktop | ![screenshot](documentation/wireframes/desktop-contact.png) |
 
-Repeat for any addition wireframe pages you have.
+### Visit Page Wireframes
+
+| Size | Screenshot |
+| --- | --- |
+| Mobile | ![screenshot](documentation/wireframes/mobile-contact.png) |
+| Tablet | ![screenshot](documentation/wireframes/tablet-contact.png) |
+| Desktop | ![screenshot](documentation/wireframes/desktop-contact.png) |
+
+### Confirmation Page Wireframes
+
+| Size | Screenshot |
+| --- | --- |
+| Mobile | ![screenshot](documentation/wireframes/mobile-contact.png) |
+| Tablet | ![screenshot](documentation/wireframes/tablet-contact.png) |
+| Desktop | ![screenshot](documentation/wireframes/desktop-contact.png) |
+
+
 
 ## Features
 
@@ -228,9 +213,43 @@ Consider adding any helpful links or notes to help remind you in the future, if 
 
 ## Deployment
 
-1. Cloning and Forking - To clone and fork click on the fork tab on the top right hand side of github and select from the dropdown menu.
-2. Local Deployment - Navigate to Github on your browser and make an account if you don't already have one.Get the Gitpod extension for your browser. Return to Github and click the green Gitpod button.
-3. Remote Deployment - Navigate to Github and select the project you want to remotely deploy. Click settings from the navigation bar. Select 'Pages' from the left side of the screen. Under the heading "Build and Deployment" under source click Deploy from a branch. Under Branch select 'none'. Click 'save'.
+The site was deployed to GitHub Pages. The steps to deploy are as follows:
+
+In the GitHub repository, navigate to the Settings tab
+From the source section drop-down menu, select the Main Branch, then click "Save".
+The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+The live link can be found here
+
+Local Deployment
+This project can be cloned or forked in order to make a local copy on your own system.
+
+Cloning
+You can clone the repository by following these steps:
+
+Go to the GitHub repository
+Locate the Code button above the list of files and click it
+Select if you prefer to clone using HTTPS, SSH, or GitHub CLI and click the copy button to copy the URL to your clipboard
+Open Git Bash or Terminal
+Change the current working directory to the one where you want the cloned directory
+In your IDE Terminal, type the following command to clone my repository:
+git clone https://github.com/tpfk7/Portfolio-1-Project-Submission.git
+Press Enter to create your local clone.
+Alternatively, if using Gitpod, you can click below to create your own workspace using this repository.
+
+Open in Gitpod
+
+Please note that in order to directly open the project in Gitpod, you need to have the browser extension installed. A tutorial on how to do that can be found here.
+
+Forking
+By forking the GitHub Repository, we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original owner's repository. You can fork this repository by using the following steps:
+
+Log in to GitHub and locate the GitHub Repository
+At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+Once clicked, you should now have a copy of the original repository in your own GitHub account!
+Local VS Deployment
+Use this space to discuss any differences between the local version you've developed, and the live deployment site on GitHub Pages.
+
+
 
 
 
