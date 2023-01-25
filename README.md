@@ -12,7 +12,6 @@ The design of the website is trying to evoke the image of ancient Rome with dark
 
 
 - `#c17226` used for primary text.
-- `#E84610` used for primary highlights.
 - `#ad5500` used for secondary text.
 - `#fafafa` used for secondary highlights.
 
@@ -245,9 +244,25 @@ by sending yourself the following command: `!freemedia`.
 | Source | Location | Type | Notes |
 | --- | --- | --- | --- |
 
-| [Pixabay](https://pixabay.com) | gallery page | image | group of photos for gallery |
-
-| [Videvo](https://www.videvo.net/) | home page | video | background video on the hero section |
+| [Pixabay]( https://pixabay.com/vectors/gladiator-helmet-roman-soldier-161704/ ) | tab icon| image | favicon image for site|
+| [Pixabay](https://pixabay.com/photos/colosseum-rome-architecture-italy-3012088/ ) | index page |image | first colosseum image |
+| [Pxfuel]( https://www.pxfuel.com/en/free-photo-iuhhw  ) | index page |image | second colosseum image |
+| [Pixabay]( https://pixabay.com/photos/animal-tiger-big-cat-predator-1994500/ ) | index page | image | third colosseum image |
+| [Ted.com](https://www.ted.com/talks/janelle_peters_how_romans_flooded_the_colosseum_for_sea_battles) | index page | image | illustration of naval battle|
+| [Pixabay](https://pixabay.com/vectors/coliseum-colosseum-rome-landmark-309468/ ) | index page | image | colosseum on timeline |
+| [Pixabay](https://pixabay.com/vectors/spartan-roman-soldier-gladiator-6588007/  ) | index page | image | gladiator on timeline|
+| [Pixabay](https://pixabay.com/photos/tiger-big-cat-whiter-wildcat-4070533/ ) | index page | image | tiger on timeline |
+| [Pixabay](https://pixabay.com/photos/colosseum-amphitheatre-monument-5773684/) | history page | image | colosseum photo |
+| [Pixabay](https://pixabay.com/photos/colosseum-europe-rome-roma-italy-526244/ ) | history page | image | colosseum photo |
+| [Pixabay](https://pixabay.com/photos/colosseum-rome-city-roman-coliseum-2030643/ ) | history page | image | colosseum photo |
+| [Pixabay](https://pixabay.com/photos/italy-rome-coliseum-colosseum-2478805/ ) | history page | image | colosseum photo|
+| [Pixabay](https://pixabay.com/photos/gladiator-warrior-gear-weapons-1931077/ ) | gladiator page | image | gladiator helmet |
+| [Pxhere](https://pxhere.com/en/photo/1174864 ) | gladiator page | image | gladiator armor|
+| [Pixabay](https://pixabay.com/photos/tank-roman-antique-arena-gladiator-4484402/) | gladiator page | image | chariot|
+| [History](https://www.history.com/news/women-gladiators-ancient-rome ) | gladiator page | image | women gladiators |
+| [Pixabay](https://pixabay.com/photos/roman-arena-antique-coliseum-4436335/ ) | gladiator page | image | roman soldier |
+| [Pixabay](https://pixabay.com/photos/colosseum-rome-italy-sightseeing-3676165/) | visit page | image | colosseum photo |
+| [Wikimedia](https://commons.wikimedia.org/wiki/File:Roman_Colosseum.jpg ) | visit page | image | colosseum photo |
 | [TinyPNG](https://tinypng.com) | entire site | image | tool for image compression |
 
 ### Acknowledgements
