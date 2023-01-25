@@ -32,17 +32,14 @@ In this section, list all of your user stories for the project.
 
 ### New Site Users
 
-- As a new site user, I would like to ____________, so that I can ____________.
-- As a new site user, I would like to ____________, so that I can ____________.
-- As a new site user, I would like to ____________, so that I can ____________.
-- As a new site user, I would like to ____________, so that I can ____________.
-- As a new site user, I would like to ____________, so that I can ____________.
+- As a new site user, I would like to see the title of the page at the top, so that I can always know what page I'm on.
+- As a new site user, I would like to have a navigation bar, so that I can navigate to each page easily.
+- As a new site user, I would like to have a form section, so that I can send a question to the site creator.
+- As a new site user, I would like to have a confirmation page, so that I can know my question was sent correctly.
 
 ## Wireframes
 
-In this section, display your wireframe screenshots using a Markdown `table`.
-
-Instructions on how to do Markdown `tables` start on line #213 on this site: https://pandao.github.io/editor.md/en.html
+For this site I created wireframes to give me a rough guide for the actual site.
 
 To follow best practice, wireframes were developed for mobile, tablet, and desktop sizes.
 I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wireframes.
@@ -90,110 +87,82 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 
 
 ## Features
-
-In this section, you should go over the different parts of your project,
-and describe each in a sentence or so.
-
-You will need to explain what value each of the features provides for the user,
-focusing on who this website is for, what it is that they want to achieve,
-and how your project is the best way to help them achieve these things.
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-IMPORTANT: Remember to always include a screenshot of each individual feature!
-
 ### Existing Features
 
-- **Feature #1**
+- **Nav Bar/Title**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+    - Each page has a title to show the user what page they are on. The navigation bar below the heading allows the use to quickly navigate to other parts of the site. Each link will change its background colour on hover to give visual feedback to the user about the link they are about to click.
 
-![screenshot](documentation/feature01.png)
+![screenshot](documentation/features/feature-nav.png)
 
-- **Feature #2**
+- **Burger Menu**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+    - If the site is on a screen below 600px width then the nav bar will become a burger menu. This will allow the user to quickly navigate to other parts of the site when needed but will not take up excessive space when the nav bar is not being used.
 
-![screenshot](documentation/feature02.png)
+![screenshot](documentation/features/feature-burger.png)
 
-- **Feature #3**
+- **Greyscale**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+    - Each page has multiple images to keep the user engaged and to give them a visual reference. The greyscale adds a touch of interactivity to the user.
 
-![screenshot](documentation/feature03.png)
+    ![screenshot](documentation/features/feature-greyscale.png)
 
-Repeat as necessary for as many features as your site contains.
+    - **Timeline**
 
-Hint: the more, the merrier!
+    - On the index page there is a timeline to at the bottom of the page to give the user a easy to read visual aid to give them a brief overview of the Colosseum before they go to the more in depth sections.
+
+    ![screenshot](documentation/features/feature-timeline.png)
+
+    - **Information**
+
+    - The main purpose of the site is to allow users to learn about the Colosseum. Detailed information blocks with images will help the user learn more about the structure and its history.
+
+     ![screenshot](documentation/features/feature-info.png)
+
+    - **Footer**
+
+    - The footer on each page is clearly marked with a colour change. The icons in the footer use clear icons as links so that the user can quickly navigate to different social media platforms.
+
+![screenshot](documentation/features/feature-footer.png)
+
+- **Form**
+
+    - The visit page has a form for users to fill in if they have any questions about the Colosseum or how to visit. 
+
+![screenshot](documentation/features/feature-form.png)
+
+- **Confirmation Page**
+
+    - To assure the user their question has been sent a confirmation page will thank them and confirm the message has been sent.
+
+![screenshot](documentation/features/feature-confirmation.png)
 
 ### Future Features
 
-Do you have additional ideas that you'd like to include on your project in the future?
-Fantastic! List them here!
-It's always great to have plans for future improvements!
-Consider adding any helpful links or notes to help remind you in the future, if you revisit the project in a couple years.
+- Quiz Page #1
+    - In the future I think it would be fun to have a quiz section for users to test what they have learned.
+- Image carousel #2
+    - I would like to add an image carousel to the index page so that users could scroll through more images.
 
-- Cool new feature #1
-    - Any additional notes about this feature.
-- Cool new feature #2
-    - Any additional notes about this feature.
-- Cool new feature #3
-    - Any additional notes about this feature.
+    ## Tools & Technologies Used
 
-## Features 
-
-
-
-### Existing Features
-
-- __Navigation Bar__
-
-
-
-- __The landing page image__
-
-- __Facts About the Colosseum section__
-
-- __The Footer__ 
+- [HTML](https://en.wikipedia.org/wiki/HTML) used for the main site content.
+- [CSS](https://en.wikipedia.org/wiki/CSS) used for the main site design and layout.
+- [TinyPNG.com](https://tinypng.com) used to compress image sizes.
+- [writer.com](https://writer.com/grammar-checker/) used to check the grammar.
+- [balsamiq.com](https://balsamiq.com/) used to create the wireframes.
+- [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
+- [JavaScript](https://www.javascript.com) used for burger menu on mobile devices.
+- [Git](https://git-scm.com) used for version control. (`git add`, `git commit`, `git push`)
+- [GitHub](https://github.com) used for secure online code storage.
+- [GitHub Pages](https://pages.github.com) used for hosting the deployed front-end site.
+- [Gitpod](https://gitpod.io) used as a cloud-based IDE for development.
+- [Markdown Builder by Tim Nelson](https://traveltimn.github.io/readme-builder) used to help generate the Markdown files.
 
 
+## Testing
 
-- __History Page__
-
-
-- __History Page Image__
-
- 
-
-- __The Footer__ 
-
-
-
-- __Gladiators Page__
-
-
-
-- __Visit Page__
-
-
-
-### Features Left to Implement
-
-
-
-## Testing 
-
-
-
-
-### Validator Testing 
-
-- HTML
-
-
-### Unfixed Bugs
-
-
+For all testing, please refer to the [TESTING.md](TESTING.md) file.
 
 ## Deployment
 
@@ -443,40 +412,7 @@ Consider adding any helpful links or notes to help remind you in the future, if 
 - Cool new feature #3
     - Any additional notes about this feature.
 
-## Tools & Technologies Used
 
-In this section, you should explain the various tools and technologies used to develop the project.
-Make sure to put a link (where applicable) to the source, and explain what each was used for.
-Some examples have been provided, but this is just a sample only, your project might've used others.
-Feel free to delete any unused items below as necessary.
-
-- [HTML](https://en.wikipedia.org/wiki/HTML) used for the main site content.
-- [CSS](https://en.wikipedia.org/wiki/CSS) used for the main site design and layout.
-- [CSS :root variables](https://www.w3schools.com/css/css3_variables.asp) used for reusable styles throughout the site.
-- [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) and/or [CSS Grid](https://www.w3schools.com/css/css_grid.asp) used for an enhanced responsive layout.
-- [Bootstrap](https://getbootstrap.com) used as the front-end CSS framework for modern responsiveness and pre-built components.
-- [Materialize](https://materializecss.com) used as the front-end CSS framework for modern responsiveness and pre-built components.
-- [JavaScript](https://www.javascript.com) used for user interaction on the site.
-- [Python](https://www.python.org) used as the back-end programming language.
-- [Git](https://git-scm.com) used for version control. (`git add`, `git commit`, `git push`)
-- [GitHub](https://github.com) used for secure online code storage.
-- [GitHub Pages](https://pages.github.com) used for hosting the deployed front-end site.
-- [Gitpod](https://gitpod.io) used as a cloud-based IDE for development.
-- [Markdown Builder by Tim Nelson](https://traveltimn.github.io/readme-builder) used to help generate the Markdown files.
-- [Flask](https://flask.palletsprojects.com) used as the Python framework for the site.
-- [Django](https://www.djangoproject.com) used as the Python framework for the site.
-- [MongoDB](https://www.mongodb.com) used as the non-relational database management with Flask.
-- [SQLAlchemy](https://www.sqlalchemy.org) used as the relational database management with Flask.
-- [PostgreSQL](https://www.postgresql.org) used as the relational database management.
-- [ElephantSQL](https://www.elephantsql.com) used as the Postgres database.
-- [Heroku](https://www.heroku.com) used for hosting the deployed back-end site.
-- [Cloudinary](https://cloudinary.com) used for online static file storage.
-- [Stripe](https://stripe.com) used for online secure payments of ecommerce products/services.
-- [AWS S3](https://aws.amazon.com/s3) used for online static file storage.
-
-## Testing
-
-For all testing, please refer to the [TESTING.md](TESTING.md) file.
 
 ## Deployment
 
