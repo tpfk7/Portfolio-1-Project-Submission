@@ -342,3 +342,6 @@ html, body {
 .footer {
   flex-shrink: 0;
 }
+ul {
+  list-style-position: inside
+}
