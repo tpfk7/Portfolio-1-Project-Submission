@@ -25,7 +25,6 @@ h2 {
 }
 
 #logo {
-  float: center;
   font-size: 300%;
   text-decoration: none;
   margin-left: 30px;
@@ -295,7 +294,6 @@ input[type=reset] {
 /* footer */
 
 footer {
-  height:;
   background-color: #ad5500;
   flex-shrink: 0;
 }

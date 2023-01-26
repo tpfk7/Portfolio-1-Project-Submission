@@ -17,57 +17,28 @@ You are not required to validate external libraries/frameworks, such as imported
 
 I have used the recommended [HTML W3C Validator](https://validator.w3.org) to validate all of my HTML files.
 
-- If you are copying/pasting your HTML code, use this link: https://validator.w3.org/#validate_by_input
-- (*recommended*) If you are using the live deployed site pages, use this link: https://validator.w3.org/#validate_by_uri
-
-It's recommended to validate the live pages (each of them) using the deployed URL.
-This will give you a custom URL as well, which you can use on your testing documentation.
-It makes it easier to return back to a page to validate it again in the future.
-The URL will look something like this:
-
 - https://validator.w3.org/nu/?doc=https%3A%2F%2Ftpfk7.github.io%2FPortfolio-1-Project-Submission%2Findex.html
 
 Sample HTML code validation documentation (tables are extremely helpful!):
 
 | Page | W3C URL | Screenshot | Notes |
 | --- | --- | --- | --- |
-| Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftpfk7.github.io%2FPortfolio-1-Project-Submission%2F) | ![screenshot](documentation/html-validation-home.png) | Section lacks header h2-h6 warning |
-| History | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftpfk7.github.io%2FPortfolio-1-Project-Submission%2Fhistory.html) | ![screenshot](documentation/html-validation-contact.png) | Section lacks header h2-h6 warning |
-| Gladiators | [W3C](https://tpfk7.github.io/Portfolio-1-Project-Submission/gladiators.html) | ![screenshot](documentation/html-validation-quiz.png) | Section lacks header h2-h6 warning |
-| Visit | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftpfk7.github.io%2FPortfolio-1-Project-Submission%2Fquiz.html) | ![screenshot](documentation/html-validation-quiz.png) | Pass: No Errors |
-| Confirmation | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftpfk7.github.io%2FPortfolio-1-Project-Submission%2Fquiz.html) | ![screenshot](documentation/html-validation-quiz.png) | Pass: No Errors |
+| Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftpfk7.github.io%2FPortfolio-1-Project-Submission%2F) | ![screenshot](documentation/validator/index-test.png) | Section lacks header h2-h6 warning |
+| History | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftpfk7.github.io%2FPortfolio-1-Project-Submission%2Fhistory.html) | ![screenshot](documentation/validator/history-test.png) | Section lacks header h2-h6 warning |
+| Gladiators | [W3C](https://tpfk7.github.io/Portfolio-1-Project-Submission/gladiators.html) | ![screenshot](documentation/validator/gladiator-test.png) | Section lacks header h2-h6 warning |
+| Visit | [W3C](https://tpfk7.github.io/Portfolio-1-Project-Submission/visit.html) | ![screenshot](documentation/validator/visit-test.png) | Section lacks header h2-h6 warning |
+| Confirmation | [W3C](https://tpfk7.github.io/Portfolio-1-Project-Submission/confirmation.html?fname=tom&lname=k&email=tt%40gmail.com&topic=colosseum&question=How+old+is+it%3F) | ![screenshot](documentation/validator/confirmation-test.png) | Pass: No Errors |
 
 
 ### CSS
 
 I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator) to validate all of my CSS files.
 
-- If you are copying/pasting your HTML code, use this link: https://jigsaw.w3.org/css-validator/#validate_by_input
-- (*recommended*) If you are using the live deployed site, use this link: https://jigsaw.w3.org/css-validator/#validate_by_uri
-
-It's recommended to validate the live site if you only have a single CSS file using the deployed URL.
-This will give you a custom URL as well, which you can use on your testing documentation.
-It makes it easier to return back to the page to validate it again in the future.
-The URL will look something like this:
-
-- https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ftpfk7.github.io%2FPortfolio-1-Project-Submission
-
-If you have multiple CSS files, then individual [validation by input](https://jigsaw.w3.org/css-validator/#validate_by_input)
-is recommended for the additional CSS files.
-
-**IMPORTANT**: Third-Party tools
-
-If you're using extras like Bootstrap, Materialize, Font Awesome, then sometimes the validator
-will attempt to also validate this code, even if it's not part of your own actual code.
-You are not required to validate the external libraries or frameworks!
-
 Sample CSS code validation documentation (tables are extremely helpful!):
 
 | File | Jigsaw URL | Screenshot | Notes |
 | --- | --- | --- | --- |
-| style.css | [Jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ftpfk7.github.io%2FPortfolio-1-Project-Submission) | ![screenshot](documentation/css-validation-style.png) | Pass: No Errors |
-| checkout.css | n/a | ![screenshot](documentation/css-validation-checkout.png) | Pass: No Errors |
-| x | x | x | repeat for all remaining CSS files |
+| style.css | [Jigsaw](https://jigsaw.w3.org/css-validator/validator) | ![screenshot](documentation/validator/css-test.png) | Pass: No Errors |
 
 ## Browser Compatibility
 
