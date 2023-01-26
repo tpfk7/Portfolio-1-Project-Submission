@@ -32,7 +32,7 @@ Sample HTML code validation documentation (tables are extremely helpful!):
 | Page | W3C URL | Screenshot | Notes |
 | --- | --- | --- | --- |
 | Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftpfk7.github.io%2FPortfolio-1-Project-Submission%2F) | ![screenshot](documentation/html-validation-home.png) | Section lacks header h2-h6 warning |
-| History | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftpfk7.github.io%2FPortfolio-1-Project-Submission%2Fcontact.html) | ![screenshot](documentation/html-validation-contact.png) | obsolete iframe warnings |
+| History | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftpfk7.github.io%2FPortfolio-1-Project-Submission%2Fhistory.html) | ![screenshot](documentation/html-validation-contact.png) | Section lacks header h2-h6 warning |
 | Gladiators | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftpfk7.github.io%2FPortfolio-1-Project-Submission%2Fquiz.html) | ![screenshot](documentation/html-validation-quiz.png) | Pass: No Errors |
 | Visit | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftpfk7.github.io%2FPortfolio-1-Project-Submission%2Fquiz.html) | ![screenshot](documentation/html-validation-quiz.png) | Pass: No Errors |
 | Confirmation | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftpfk7.github.io%2FPortfolio-1-Project-Submission%2Fquiz.html) | ![screenshot](documentation/html-validation-quiz.png) | Pass: No Errors |
