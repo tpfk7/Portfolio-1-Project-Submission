@@ -33,6 +33,7 @@ In this section, list all of your user stories for the project.
 
 - As a new site user, I would like to see the title of the page at the top, so that I can always know what page I'm on.
 - As a new site user, I would like to have a navigation bar, so that I can navigate to each page easily.
+- As a new site user, I would like to have social media links, so that I can easily navigate to other sites.
 - As a new site user, I would like to have a form section, so that I can send a question to the site creator.
 - As a new site user, I would like to have a confirmation page, so that I can know my question was sent correctly.
 

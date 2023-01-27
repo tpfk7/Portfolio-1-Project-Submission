@@ -110,16 +110,12 @@ from the respective feature.
 
 | User Story | Screenshot |
 | --- | --- |
-| As a new site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature01.png) |
-| As a new site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature02.png) |
-| As a new site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature03.png) |
-| As a returning site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature04.png) |
-| As a returning site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature05.png) |
-| As a returning site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature06.png) |
-| As a site administrator, I should be able to ____________, so that I can ____________. | ![screenshot](documentation/feature07.png) |
-| As a site administrator, I should be able to ____________, so that I can ____________. | ![screenshot](documentation/feature08.png) |
-| As a site administrator, I should be able to ____________, so that I can ____________. | ![screenshot](documentation/feature09.png) |
-| repeat for all remaining user stories | x |
+| As a new site user, I would like to see the title of the page at the top, so that I can always know what page I'm on. | ![screenshot](documentation/user-stories/title-user.png) |
+| As a new site user, I would like to have a navigation bar, so that I can navigate to each page easily. | ![screenshot](documentation/user-stories/navbar-user.png) |
+| As a new site user, I would like to have a form section, so that I can send a question to the site creator. | ![screenshot](documentation/user-stories/form-user.png) |
+| As a new site user, I would like to have a confirmation page, so that I can know my question was sent correctly. | ![screenshot](documentation/user-stories/confirmation-user.png) |
+| As a new site user, I would like to have social media links so that I can navigate to different social media links. | ![screenshot](documentation/user-stories/footer-use.png) |
+
 
 ## Bugs
 
