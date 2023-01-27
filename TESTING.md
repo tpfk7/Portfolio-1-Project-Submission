@@ -34,6 +34,16 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 | --- | --- | --- | --- |
 | style.css | [Jigsaw](https://jigsaw.w3.org/css-validator/validator) | ![screenshot](documentation/validator/css-test.png) | Pass: No Errors |
 
+### JS
+
+I have used the recommended [JShint](https://www.jshint.com) to validate all of my JS files.
+
+
+
+| File | Screenshot | Notes |
+| --- | --- | --- |
+| menu.js | ![screenshot](documentation/validator/js-test.png) | Pass: One unused variable from html |
+
 ## Browser Compatibility
 
 I've tested my deployed project on multiple browsers to check for compatibility issues.
