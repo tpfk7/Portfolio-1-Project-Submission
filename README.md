@@ -1,12 +1,12 @@
 # Learn About the Colosseum
-The purpose of this website is to give information to those who are interested in the Colosseum. The landing page has some quick facts to get the user engaged and the History and Gladiator section go more indepth into the creation of the structure, how it was used and the combatants that fought in it.
+The purpose of this website is to give information to those who are interested in the Colosseum. The landing page has some quick facts to get the user engaged, and the History and Gladiator sections go more in-depth into the creation of the structure, how it was used and the combatants that fought in it.
 
-The main goal is to educate the user on the Colosseum but the secondary goal is for the user to visit, or possibly re-visit the Colosseum. The information on the first three pages will hopefully entice the user to consider visiting. The Visit page will give the user specific reasons to visit the Colosseum and a form if they have any questions about tours or general questions.
+The main goal is to educate the user on the Colosseum, but the secondary goal is for the user to visit, or possibly re-visit, the Colosseum. The information on the first three pages will hopefully entice the user to consider visiting. The Visit page will give the user specific reasons to visit the Colosseum and a form if they have any other questions about tours or general questions.
 ![screenshot](documentation/mockup.png)
 
 ## UX
 
-The design of the website is trying to evoke the image of ancient Rome with dark orange colours to represent sand and brick of the Colosseum.
+The design of the website is trying to evoke the image of ancient Rome with dark orange colours to represent the sand and brick of the Colosseum.
 
 ### Colour Scheme
 
@@ -17,7 +17,7 @@ The design of the website is trying to evoke the image of ancient Rome with dark
 
 ### Typography
 
-Philiosopher and Mulish fonts were used as they pair well together and fit the theme. They were taken from Google Fonts. The social media links were taken from Font Awesome. l
+The fonts Philiosopher and Mulish  were used as they pair well together and fit the theme. They were taken from Google Fonts. The social media links were taken from Font Awesome. l
 
 - [Philiosopher](https://fonts.google.com/specimen/Philosopher?query=philosopher) was used for the primary headers and titles.
 
@@ -27,7 +27,7 @@ Philiosopher and Mulish fonts were used as they pair well together and fit the t
 
 ## User Stories
 
-In this section, list all of your user stories for the project.
+
 
 ### New Site Users
 
@@ -103,13 +103,13 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 
 - **Greyscale**
 
-    - Each page has multiple images to keep the user engaged and to give them a visual reference. The greyscale adds a touch of interactivity to the user.
+    - Each page has multiple images to keep the user engaged and to give them a visual reference. The greyscale upon hover adds a touch of interactivity to the user.
 
     ![screenshot](documentation/features/feature-greyscale.png)
 
     - **Timeline**
 
-    - On the index page there is a timeline to at the bottom of the page to give the user a easy to read visual aid to give them a brief overview of the Colosseum before they go to the more in depth sections.
+    - On the index page there is a timeline to at the bottom of the page to give the user a easy to read visual aid, giving them a brief overview of the Colosseum before they go to the more in-depth sections.
 
     ![screenshot](documentation/features/feature-timeline.png)
 
@@ -275,5 +275,3 @@ by sending yourself the following command: `!freemedia`.
 - I would like to thank the [Chris Quinn](https://ie.linkedin.com/in/c-quinn?trk=people-guest_people_search-card) for their support with masterclasses.
 - I would like to thank the [Code Institute](https://codeinstitute.net) tutor team for their assistance with troubleshooting and debugging some project issues.
 - I would like to thank the [Code Institute Slack community](https://code-institute-room.slack.com) for the moral support; and to help with general questions.
-- I would like to thank my spouse/partner (John/Jane), for believing in me, and allowing me to make this transition into software development.
-- I would like to thank my employer, for supporting me in my career development change towards becoming a software developer.

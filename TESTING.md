@@ -13,7 +13,7 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org) to va
 
 - https://validator.w3.org/nu/?doc=https%3A%2F%2Ftpfk7.github.io%2FPortfolio-1-Project-Submission%2Findex.html
 
-Sample HTML code validation documentation (tables are extremely helpful!):
+
 
 | Page | W3C URL | Screenshot | Notes |
 | --- | --- | --- | --- |
@@ -28,7 +28,7 @@ Sample HTML code validation documentation (tables are extremely helpful!):
 
 I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator) to validate all of my CSS files.
 
-Sample CSS code validation documentation (tables are extremely helpful!):
+
 
 | File | Jigsaw URL | Screenshot | Notes |
 | --- | --- | --- | --- |
