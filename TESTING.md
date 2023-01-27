@@ -19,9 +19,9 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org) to va
 | --- | --- | --- | --- |
 | Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftpfk7.github.io%2Fthe-colosseum%2F) | ![screenshot](documentation/validator/index-test.png) | Section lacks header h2-h6 warning |
 | History | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftpfk7.github.io%2Fthe-colosseum%2Fhistory.html) | ![screenshot](documentation/validator/history-test.png) | Section lacks header h2-h6 warning |
-| Gladiators | [W3C](https://tpfk7.github.io/the-colosseum/gladiators.html) | ![screenshot](documentation/validator/gladiator-test.png) | Section lacks header h2-h6 warning |
+| Gladiators | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftpfk7.github.io%2Fthe-colosseum%2Fgladiators.html) | ![screenshot](documentation/validator/gladiator-test.png) | Section lacks header h2-h6 warning |
 | Visit | [W3C](https://tpfk7.github.io/the-colosseum/visit.html) | ![screenshot](documentation/validator/visit-test.png) | Section lacks header h2-h6 warning |
-| Confirmation | [W3C](https://tpfk7.github.io/the-colosseum/confirmation.html?fname=tom&lname=k&email=tt%40gmail.com&topic=colosseum&question=How+old+is+it%3F) | ![screenshot](documentation/validator/confirmation-test.png) | Pass: No Errors |
+| Confirmation | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftpfk7.github.io%2Fthe-colosseum%2Fconfirmation.html) | ![screenshot](documentation/validator/confirmation-test.png) | Pass: No Errors |
 
 
 ### CSS
