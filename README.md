@@ -109,9 +109,11 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 
     - **Timeline**
 
-    - On the index page there is a timeline to at the bottom of the page to give the user a easy to read visual aid, giving them a brief overview of the Colosseum before they go to the more in-depth sections.
+    - On the index page there is a timeline to at the bottom of the page to give the user a easy to read visual aid, giving them a brief overview of the Colosseum before they go to the more in-depth sections.This image is responsive and changes to vertical on mobile devices.
 
     ![screenshot](documentation/features/feature-timeline.png)
+
+    ![screenshot](assets/images/timeline-vertical.jpeg)
 
     - **Information**
 
@@ -246,7 +248,6 @@ by sending yourself the following command: `!freemedia`.
 
 | Source | Location | Type | Notes |
 | --- | --- | --- | --- |
-
 | [Pixabay]( https://pixabay.com/vectors/gladiator-helmet-roman-soldier-161704/ ) | tab icon| image | favicon image for site|
 | [Pixabay](https://pixabay.com/photos/colosseum-rome-architecture-italy-3012088/ ) | index page |image | first colosseum image |
 | [Pxfuel]( https://www.pxfuel.com/en/free-photo-iuhhw  ) | index page |image | second colosseum image |
@@ -272,6 +273,6 @@ by sending yourself the following command: `!freemedia`.
 
 
 - I would like to thank my Code Institute mentor, [Tim Nelson](https://github.com/TravelTimN) for their support throughout the development of this project.
-- I would like to thank the [Chris Quinn](https://ie.linkedin.com/in/c-quinn?trk=people-guest_people_search-card) for their support with masterclasses.
+- I would like to thank the [Chris Quinn](https://github.com/10xoxr) for their support with masterclasses.
 - I would like to thank the [Code Institute](https://codeinstitute.net) tutor team for their assistance with troubleshooting and debugging some project issues.
 - I would like to thank the [Code Institute Slack community](https://code-institute-room.slack.com) for the moral support; and to help with general questions.
