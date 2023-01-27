@@ -151,7 +151,7 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 - [TinyPNG.com](https://tinypng.com) used to compress image sizes.
 - [writer.com](https://writer.com/grammar-checker/) used to check the grammar.
 - [balsamiq.com](https://balsamiq.com/) used to create the wireframes.
-- [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
+- [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) used for footer.
 - [JavaScript](https://www.javascript.com) used for burger menu on mobile devices.
 - [Git](https://git-scm.com) used for version control. (`git add`, `git commit`, `git push`)
 - [GitHub](https://github.com) used for secure online code storage.
