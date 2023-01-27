@@ -100,19 +100,19 @@ from the respective feature.
 
 - Nav bar breaks under 320px width.
 
-    ![screenshot](documentation/bug01.png)
+    ![screenshot](documentation/bugs/bug-nav.png)
 
     - To fix this, I added a JS burger menu.
 
 - On large displays images took up too much screen width.
 
-    ![screenshot](documentation/bug02.png)
+    ![screenshot](documentation/bugs/bug-image.png)
 
     - To fix this, I added a media query for diplays above 700px to scale images to 50%.
 
 - Footer was too far up on the confirmation page.
 
-    ![screenshot](documentation/bug03.png)
+    ![screenshot](documentation/bugs/bug-footer.png)
 
     - To fix this, I added a sticky footer to css.
 
@@ -120,7 +120,7 @@ from the respective feature.
 
 - When validating HTML with a semantic `section` element, the validator warns about lacking a header `h2-h6`. This is for each .html document except confirmation.html. This is acceptable.
 
-    ![screenshot](documentation/lighthouse-performance/hitstory-macbook-performance.png)
+    ![screenshot](documentation/validator/gladiator-test.png)
 
     - Attempted fix: this is a known warning and acceptable.
 
