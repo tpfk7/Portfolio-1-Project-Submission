@@ -11,17 +11,17 @@ Return back to the [README.md](README.md) file.
 
 I have used the recommended [HTML W3C Validator](https://validator.w3.org) to validate all of my HTML files.
 
-- https://validator.w3.org/nu/?doc=https%3A%2F%2Ftpfk7.github.io%2FPortfolio-1-Project-Submission%2Findex.html
+- https://validator.w3.org/nu/?doc=https%3A%2F%2Ftpfk7.github.io%2Fthe-colosseum%2Findex.html
 
 
 
 | Page | W3C URL | Screenshot | Notes |
 | --- | --- | --- | --- |
-| Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftpfk7.github.io%2FPortfolio-1-Project-Submission%2F) | ![screenshot](documentation/validator/index-test.png) | Section lacks header h2-h6 warning |
-| History | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftpfk7.github.io%2FPortfolio-1-Project-Submission%2Fhistory.html) | ![screenshot](documentation/validator/history-test.png) | Section lacks header h2-h6 warning |
-| Gladiators | [W3C](https://tpfk7.github.io/Portfolio-1-Project-Submission/gladiators.html) | ![screenshot](documentation/validator/gladiator-test.png) | Section lacks header h2-h6 warning |
-| Visit | [W3C](https://tpfk7.github.io/Portfolio-1-Project-Submission/visit.html) | ![screenshot](documentation/validator/visit-test.png) | Section lacks header h2-h6 warning |
-| Confirmation | [W3C](https://tpfk7.github.io/Portfolio-1-Project-Submission/confirmation.html?fname=tom&lname=k&email=tt%40gmail.com&topic=colosseum&question=How+old+is+it%3F) | ![screenshot](documentation/validator/confirmation-test.png) | Pass: No Errors |
+| Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftpfk7.github.io%2Fthe-colosseum%2F) | ![screenshot](documentation/validator/index-test.png) | Section lacks header h2-h6 warning |
+| History | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftpfk7.github.io%2Fthe-colosseum%2Fhistory.html) | ![screenshot](documentation/validator/history-test.png) | Section lacks header h2-h6 warning |
+| Gladiators | [W3C](https://tpfk7.github.io/the-colosseum/gladiators.html) | ![screenshot](documentation/validator/gladiator-test.png) | Section lacks header h2-h6 warning |
+| Visit | [W3C](https://tpfk7.github.io/the-colosseum/visit.html) | ![screenshot](documentation/validator/visit-test.png) | Section lacks header h2-h6 warning |
+| Confirmation | [W3C](https://tpfk7.github.io/the-colosseum/confirmation.html?fname=tom&lname=k&email=tt%40gmail.com&topic=colosseum&question=How+old+is+it%3F) | ![screenshot](documentation/validator/confirmation-test.png) | Pass: No Errors |
 
 
 ### CSS
@@ -32,7 +32,7 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 
 | File | Jigsaw URL | Screenshot | Notes |
 | --- | --- | --- | --- |
-| style.css | [Jigsaw](https://jigsaw.w3.org/css-validator/validator) | ![screenshot](documentation/validator/css-test.png) | Pass: No Errors |
+| style.css | [Jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ftpfk7.github.io%2Fthe-colosseum%2F) | ![screenshot](documentation/validator/css-test.png) | Pass: No Errors |
 
 ### JS
 
